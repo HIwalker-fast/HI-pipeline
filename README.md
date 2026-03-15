@@ -1,4 +1,3 @@
-Overview
 Welcome to the FAST Data Processing Toolkit! This repository provides a comprehensive suite of Python scripts designed to streamline and enhance the data reduction workflow for the Five-hundred-meter Aperture Spherical radio Telescope (FAST).
 
 Built to complement the hifast pipeline, these tools cover the entire lifecycle of radio astronomy data processing—from raw FITS data grouping and preprocessing, to telescope tracking verification, chunk merging, and final scientific visualization (Spectra and Moment 0 maps).
