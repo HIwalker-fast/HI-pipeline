@@ -32,10 +32,6 @@ This toolkit is structured around a standard FAST data reduction and analysis wo
 
 Ensure you have the `hifast` pipeline installed in your environment. Clone this repository and install the required packages:
 
-git clone [https://github.com/yourusername/FAST-Data-Toolkit.git](https://github.com/yourusername/FAST-Data-Toolkit.git)
-cd FAST-Data-Toolkit
-pip install numpy scipy pandas h5py astropy matplotlib ipywidgets notebook astroquery
-
 # FAST 射电天文数据处理工具箱 (Project Introduction)
 
 欢迎使用 FAST 射电天文数据处理工具箱！本仓库提供了一整套基于 Python 的自动化脚本和 Jupyter Notebook，旨在简化并增强 FAST (500米口径球面射电望远镜) 观测数据的后处理与分析工作流。
